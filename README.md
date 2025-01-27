@@ -1,1 +1,3 @@
-# Jogo_Bingo_Funcionado-MeuPrimeiroProjetoTerminadoDessesJoguinhosMediocres-
+tá meio bugado e só da pra jogar sozinho, é entediante mas é o primeiro jogo que o chat gpt consegue fazer pra mim, fico faliz de ter intruido ele a fazer mais ou menos certo, sla na real, tva orgulhosa mas pensando bem desanimei...
+
+enfim, é a coisa mais perta de completa desse git hub hoje.
